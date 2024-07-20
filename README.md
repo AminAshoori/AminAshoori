@@ -1,12 +1,8 @@
-👋 Hi, I’m Amin Ashoori
-👀 Interested in AI, ML, DL
-🌱 Currently learning PyTorch
-💞️ Looking to collaborate on AI projects
-📫 Reach me on Telegram @a0m0i8n 
-😄 Pronouns: he/him
-⚡ Fun fact: I love coding challenges!
+### Hi, Im Amin!
 
-<!---
-AminAshoori/AminAshoori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧑‍💻 Bachelor's student in Computer Software & AI.<br>
+👨‍🎓[Computer Engineering](https://en.wikipedia.org/wiki/Computer_engineering) student at Damghan University .<br>
+💭 Currently learning about Deep Learning!<br>
+📩 Feel free to reach out to me at [aminashoori0081@gmail.com] for any inquiries or collaborations.<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminAshoori&show_icons=true&theme=cobalt)
